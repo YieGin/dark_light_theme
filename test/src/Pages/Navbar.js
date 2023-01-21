@@ -39,7 +39,7 @@ const Navbar = () => {
       <div class="select">
         <select className="Box_en" onChange={onChangeLang}>
           <option style={{ color: "black" }} value="en" className="lang">
-            EN
+            ENGLISH
           </option>
           <option style={{ color: "black" }} value="fr" className="lang">
             FR
